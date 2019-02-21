@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 # semantic CSS
 gem 'semantic-ui-sass'
-
+gem 'jquery-rails'
 group :development, :test do
   gem 'pry'
 end
